@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
+<<<<<<< HEAD
       "cwd": "/home/nam/python/dongnghiep2/test",
       "program": "/home/nam/python/dongnghiep2/test/build/Debug/outDebug",
+=======
+      "cwd": "/home/nam/python/dongnghiep1/test",
+      "program": "/home/nam/python/dongnghiep1/test/build/Debug/outDebug",
+>>>>>>> e255b637ec5d2aed945d46c540d1a7cef5992f69
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
