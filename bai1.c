@@ -4,7 +4,7 @@ int main()
 
     printf("helooo nammm");
 
-    printf("da them o day: nam oke lalalalalal");
+    printf("da them o day: nam oke lalalalalal toi la dong nghiep 1");
 
     return 0;
 }
