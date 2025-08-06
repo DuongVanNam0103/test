@@ -3,7 +3,8 @@ int main()
 {
 
     printf("helooo nammm");
-    printf("da them o day");
+
+    printf("da them o day: nam oke lalalalalal");
 
     return 0;
 }
